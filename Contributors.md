@@ -8342,3 +8342,5 @@
 - [Nitzan Lev](https://github.com/ballonura)
 - [Harish Bahl](https://github.com/harishbehl27)
 - [Austin Accomando](https://github.com/reuse898)
+
+- [Archan Ganguly](https://github.com/arcgang)
